@@ -1,2 +1,3 @@
-def revers_rtext(value):
+def revers_text(value):
+    '''изменил название функции'''
     return value[::-1]
